@@ -1,0 +1,7 @@
+# Lammda
+
+# map
+
+# filter
+
+# reduce

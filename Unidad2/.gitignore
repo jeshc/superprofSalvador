@@ -1,0 +1,20 @@
+
+### 6. Estructuras de control iterativas
+Sirven para hacer bucles(ejecución repetida de código)
+  #### Bucle while
+ Sintaxis:
+```
+while <condicion>:
+    <Sentencia 1 while>
+    <Sentencia 2 while>
+    <Sentencia 3 while>
+```
+
+Ejemplo:
+```
+contador=1
+while contador < 20:
+    print(f"{contador}", end=" - ")
+    contador +=1
+```
+  #### Bucle for
